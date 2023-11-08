@@ -1,0 +1,11 @@
+di dalam pemograman HTML ada 2 atribut antara lain
+a.Global atribut --. adalah atribut yang dimiliki semua tag
+    - acceskey --> membuat elemen dapat di akses melalui keyboard
+    - class --> identitas sebuah elemen
+    - dir --> menentukan arah tulisan
+    - lang --> bahasa
+    - style --> menyisipkan inline css
+    - tabindex --> menentukan urutan form saat menekan tab menentukan kursor berpindah
+    - title --> memberi judul pada sebuah elemen
+
+    website pendukung wwww.w3school.com/Tags

@@ -1,0 +1,44 @@
+HTML Dasar 
+Tag
+Tag-Tag yang ada di HTML
+a.<head></head>
+    ada beberapa tag yang ada di dalam tag <head>
+    - <title>judul dokumen</title>
+    - <style></sytle> --> adalah tag untuk menyimpan file css
+    - <script></script> --> adalah tag untuk menyimpan file
+                            pemograman javascript
+    - <meta></meta> --> untuk mendeskripsikan website kita buat
+                        contoh
+                        <head>
+                            <meta charset="UTF-8">
+                            <meta name="description" content="Kuliah Pemograman Web">
+                            <meta name"keyword" content="HTML,CSS,JavaScript">
+                            <meta name="author" content="Portibi">
+                        </head>
+
+    
+b.<body><body>
+    ada beberapa tag yang ada di dalam tag <body>
+    - teks
+      <h1>,<h2>,<h3>,<h4>,<h5>,<h6>
+    - pendukung teks
+      <br>,<hr>,<em>,<strong>,...
+    - gambar
+      <img>
+    - hyperlink
+      <a> 
+    - list(bullets & numbering)
+      <ul>.<ol>,<li>,<dl>,<dt>,<dd>
+    - tabel
+      <table>,<thead>,<tbody>,...
+    - form
+      <form>,<input>,<select>,<button>,<submit>,...
+    - script
+      <script>
+    - object
+      <object>
+    - grouping
+      <div>,<span>
+    - komentar
+      <!--ini adalah komentar-->
+

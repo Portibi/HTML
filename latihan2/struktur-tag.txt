@@ -1,0 +1,10 @@
+Struktur Tag
+    contoh
+    <body bg color="lightblue">
+    <nama tag atribut="nilai/value"
+
+dalam struktur tag boleh memiliki 2 / lebih atribut
+    contoh
+    <body bgcolor="lightblue" id="myid" class="myclass">
+
+
