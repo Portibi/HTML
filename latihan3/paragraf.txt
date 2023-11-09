@@ -1,0 +1,15 @@
+HTML Dasar 
+Paragraf di Bahasa Pemograman HTML
+TAG yang digunakan dalam membuat sebuah paragraf antara lain
+- <p></p> --> tag di gunakan untuk mendefinisikan sebuah paragraf
+    contoh
+    <p> ini adalah sebuah paragraf 1</p>
+
+- <br> --> membuat baris baru dalam sebuah paragraf atau kalimat
+- <hr> --> membuat batas garis horizontal pada sebuah Paragraf
+- <b></b> --> cetak tebal pada kalimat
+- <u></u> --> garis bawah pada kalinat
+- <i></i> --> cetak miring pada kalimat
+- <strong></strong> --> cetak tebal pada kalinat dan ada penekanan (penting)
+- <em></em> --> cetak miring pada kalainat dan ada penekanan (penting)
+- <!-- --> --> membuat paragraf menjadi komentar di HTML

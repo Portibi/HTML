@@ -1,0 +1,22 @@
+HTML Dasar
+LIST
+ada beberapa tag yang digunakan dalam membuat list di HTML
+- <ol></ol> --> membuat list dengan memperhatikan urutan
+    urutan dapat kita tentukan dengan type
+    antara lain
+    - 1 --> angka
+    - A --> abjad huruf kapital
+    - a --> abjad
+    - I --> angka romawi kapital
+    - i --> angka romawi
+- <li></li> --> tag untuk item atau kegiatan yang kita buat
+
+- <ul><ul> --> membuat list tidak memperhatikan urutan kegiatan atau item
+- <dl></dl> --> defenition list, tag digunakan untuk membuat list dan defenisinya
+ formula
+ <dl>
+ <dt>term 1</dt>
+ <dd> description 1</dd>
+ <dt> term 2</dt>
+ <dd> description</dd>
+ <dl>

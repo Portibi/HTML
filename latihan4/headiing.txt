@@ -1,0 +1,7 @@
+HIML Dasar
+Heading
+Hal yang harus diketahui tentang heading di pemograman HTML
+- Heading terdiri dari 6 level h1-h6
+- h1 > h2 > h3 > h4 > h5 > h6
+- Pada umumnya h1 di gunakan untuk judul artikel
+- perbedaan ukuran huruf pada setiap heading dapat di tentukan melalui CSS
