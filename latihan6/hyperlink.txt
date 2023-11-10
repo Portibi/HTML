@@ -1,0 +1,25 @@
+HTNK Dasar
+Hyperlink --> melakukan link ke tujuan tertentu di pemograman HTML
+tag yang digunakan adalah 
+- <a></a> --> anchor (jangkar)
+format hyperlink di HTML
+
+<a href="(tujuan)"></a>
+
+jenis-jenis link
+
+- external link
+    - contoh : <a href="http://www.google.com"></a>
+
+- internal link
+    - contoh : <a href="halaman2.html"></a>
+
+- relative url --> jika file tidak dalam satu folder yang sama
+    - contoh : <a href="admin/halaman2"></a>
+
+- page-achor --> link ke bagian tertentu di dalam halaman itu sendiri
+- atribut lainnya dapat di gunakan dalam hyperlink dengan elemen target
+    - _self --> target default
+    - _blank --> di buka di tab baru
+    - _parent
+    - _top
