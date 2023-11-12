@@ -1,0 +1,28 @@
+HTML Dasar
+Image
+tag dasar untuk Image
+- <img src="logo.png">
+src ---> sumber gambar yang di sisipkan
+    - external src(hotlink)
+    ex: https:.//www.google.com/image/srpr.logolw.png
+ 
+ atribut yang di gunakan dalam tag img
+
+    - src --> sumber dari gambar
+    - alt --> alternatif gamber jika tidak muncul
+    - title --> judul pasa gamber,muncul saat kita meletekan kursor pada gambar
+    - width --> merubah lebar gambar (px,%)
+    - height --> merubah tinggi gambar(px,%)
+
+cara penulisan
+
+<img src="logo.png" title="logo-utama" alt="logo-utama">
+
+-tips and trik
+
+- untuk mengatur ukuran gambar lebih baik dengan satu parameter saja
+
+
+Membuat hyperlink dengan gambar
+
+<a href="../latihan6/halaman1.txt"><img src="logo.png"></a>

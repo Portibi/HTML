@@ -1,0 +1,21 @@
+HTML Dasar
+tag Tabel
+tag yang digunakan <table></table>
+
+Struktur table
+    - baris --> ke arah horizontal (tr)
+    - kolom --> ke arah vertikal(td)
+    - cell --> gabungan antara baris dan kolom
+
+tag pendukung tag <table>
+    - <tr></tr> --> table row
+    - <td></td> --> table data
+tag pendukung tag <thead>
+    - <th></th> --table header
+
+atribut yang di gunakan dalam Tabel
+    - border
+    - cellspacing = jarak antar cell
+    - cellpadding 
+    - colspan = merge kolom
+    - rowspan = merge baris
