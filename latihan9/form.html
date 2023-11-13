@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <style>
+        .form{
+            background-color: rgb(155, 155, 174);
+            position:absolute;
+            display: flex;
+            flex-wrap: wrap;
+            overflow: hidden;
+            border-radius: 5%;
+            padding:7px;
+        }
+    </style>
+</head>
+<body>
+    <!--<form action="">
+        <label for="username">username</label>
+        <input type="text" id="username">
+        <br>
+        <label for="password">password</label>
+        <input type="password" id="password">
+        <br>
+        <input type="radio" id="pria" name="jenis kelamin"><label for="pria">pria</label>
+        <input type="radio" id="wanita" name="jenis kelamin"><label for="wanita">wanita</label>
+        <br>
+        <input type="checkbox" id="menyanyi"><label for="menyanyi">menyanyi</label>
+        <input type="checkbox" id="olahraga"><label for="olahraga">olahraga</label>
+        <input type="checkbox" id="game"><label for="game">game</label>
+        <input type="checkbox" id="coding"><label for="coding">coding</label>
+        <br>
+        <p>Kota</p>
+        <br>
+        <select name="kota-asal" id="kota">
+            <option value="">jakarta</option>
+            <option value="">medan</option>
+            <option value="">padang</option>
+            <option value="">surabaya</option>
+        </select>
+        <br>
+        <p>Deskripsi:</p><textarea name="deskripsi-diri" id="deskripsi-diri" cols="20" rows="10"></textarea>
+        <br>
+        <button>kirim</button>
+        <br>
+
+    </form> -->
+ <section class="form">    
+    <form>
+    <table border="0" >
+        <tr>
+            <td>username :</td>
+            <td><label for="username"><input type="text" id="username" placeholder="username"></label></td>
+
+        </tr>
+        <tr>
+            <td>password</td>
+            <td><label for="password"><input type="password" id="password" placeholder="password"></label></td>
+        </tr>
+        <tr>
+            <td><label for="pria"><input type="radio" id="pria" name="gender" >pria</label></td>
+            <td><label for="wanita"><input type="radio" id="wanita" name="gender">wanita</label></td>
+        </tr>
+        <tr>
+            <td><label for="coding"><input type="checkbox" id="coding" name="hobi">coding</label></td>
+            <td><label for="gaming"><input type="checkbox" id="gaming" name="hobi">gaming</label></td>       
+        </tr>
+        <tr>
+            <td>Kota-asal :</td>
+            <td>
+                <select name="kabupaten-kota" id="">
+                    <option value="pasaman">pasaman</option>
+                    <option value="padang">padang</option>
+                    <option value="bukittinggi">bukittinggi</option>
+                    <option value="sijunjung">sijunjung</option>
+                </select>
+            </td>
+        <tr>
+            <td>Deskripsi :</td>
+            <td><label for="deskripsi"><textarea name="deskripsi" id="deskripsi" cols="10" rows="5"></textarea></label></td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center"><button>kirim</button></td>
+        </tr>
+
+    </table>
+    </form>
+</section>
+    
+</body>
+</html>

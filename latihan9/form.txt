@@ -1,0 +1,14 @@
+HTML Dasar
+element form
+tag yang digunakan dalam element <form></form>
+
+    - inpu-type
+        - radio
+        - text
+        - password
+        - checkbox
+
+    - textarea
+    - select
+    - button
+    - label
